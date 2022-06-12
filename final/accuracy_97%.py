@@ -1,4 +1,4 @@
-####정확도 97프로가 나왔다.............진짜...........감격,,,,,, 모델은  deep3.h5!!!!!!!!!!!!!!!
+####정확도 97프로가 나왔다.....
 import pickle
 import pandas as pd
 import numpy as np
